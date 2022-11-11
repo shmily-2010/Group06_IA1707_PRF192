@@ -14,5 +14,5 @@
 + Bài 3: Chương trình quản lí sinh viên
 + Bài 4: Bài toán chia bài
 ```
-## Chúng mình đã đính kèm file C, hãy đọc nó nhé!!
+## Chúng mình đã đính kèm file C, output và cả các file đi cùng, hãy đọc nó nhé!!
 ##  ~ Cảm ơn vì đã đọc ~ 🥰 <br>
